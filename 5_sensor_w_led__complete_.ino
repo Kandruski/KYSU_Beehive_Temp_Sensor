@@ -7,8 +7,8 @@ int tempPin3 = A2;
 int tempPin4 = A3;
 int tempPin5 = A4;
 
-int ledRed = 7;
-int ledGreen = 4;
+int ledRed = 2;
+int ledGreen = 0;
 
 void setup ()
 {
